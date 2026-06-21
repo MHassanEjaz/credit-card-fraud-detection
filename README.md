@@ -3,7 +3,7 @@
 A Machine Learning project that detects fraudulent credit card transactions using classification algorithms, with a live interactive Streamlit web app for real-time and batch predictions.
 
 ## Live Demo
-[Try the app here](https://your-streamlit-link.streamlit.app)
+[Try the app here](https://credit-card-fraud-detection-app-xyz123.streamlit.app/)
 
 ## Dataset
 [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
