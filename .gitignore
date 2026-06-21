@@ -1,0 +1,6 @@
+creditcard.csv
+test.csv
+test_transactions.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
